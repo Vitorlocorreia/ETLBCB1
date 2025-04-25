@@ -1,4 +1,4 @@
-# ETLbcb (atv sala)
+# ETLbcb
 
 ## Explicação de cada Função implementada no repositório
 
