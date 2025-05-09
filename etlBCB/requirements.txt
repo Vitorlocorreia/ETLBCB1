@@ -1,0 +1,6 @@
+requests
+pandas
+pymysql
+sqlalchemy
+black
+matplotlib
